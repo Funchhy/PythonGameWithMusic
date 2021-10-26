@@ -1,5 +1,8 @@
 # PythonGameWithMusic
-Game made in Python with selfmade music
+Simple Game made in Python with selfmade music.
+
+Rules:
+Use Arrowkeys Left and Right do dodge the evil squares and collect the green ones :-)
 
 Maybe to be continued.
 
